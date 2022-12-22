@@ -1,1 +1,1 @@
-[Reference]('https://github.com/webfansplz/vuejs-challenges/tree/main/questions/1-hello-word')
+[Reference](https://github.com/webfansplz/vuejs-challenges/tree/main/questions/1-hello-word)
